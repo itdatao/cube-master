@@ -18,3 +18,5 @@ npm-debug.log*
 
 # 本地工具数据
 .codebuddy/
+.vercel
+.env*

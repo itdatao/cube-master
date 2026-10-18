@@ -2,6 +2,8 @@
 
 面向初学者与魔方爱好者的 **3D 魔方在线扭转教程**。在浏览器里选择三阶 / 四阶 / 五阶，跟着教程公式一步步转动魔方，支持一键打乱、一键还原、撤销重做与分步演示。
 
+**在线体验：** https://cube-master-theta.vercel.app
+
 ![技术栈](https://img.shields.io/badge/React-18-61DAFB?logo=react) ![技术栈](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript) ![技术栈](https://img.shields.io/badge/Three.js-r169-000000?logo=threedotjs) ![技术栈](https://img.shields.io/badge/Tailwind_CSS-3-38BDF8?logo=tailwindcss)
 
 ---
